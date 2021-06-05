@@ -1,16 +1,21 @@
-### Hi there 👋
+The name is Pyxl. PyxlLegend.
 
-<!--
-**PyxlLegend/PyxlLegend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details>
+  <summary>🌟 About Me</summary>
+  Ahoy I'm PyxlLegend but feel free to call me Pyxl. I got the name because I love a game called Tower of Hell and the owner and creator of the game was PyxlDev. I wanted a unique name so I came upon PyxlLegend. Call me Lexi if you want because if you flip it around and add a P to the beginning you get Pixel. But yeah that's me PyxlLegend.
+</details>
 
-Here are some ideas to get you started:
+<details>
+  <summary>📞 Contacts</summary>
+  | 🎮 | Discord   | PyxlLegend#5995 | I am on here very often |
+  | 🐤 | Twitter   | @DaGamerLegend  | I check my twitter for updates and if you wanna reach you can just show me you aren't a bot |
+  | 📸 | Instagram | @pyxllegend     | I don't post I use it to contact people |
+  | 📺 | YouTube   | Pyxl Legend     | Give me some subscribers please |
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>Fun fact</summary>
+  I can play the piano. UwU
+</details>
+
+I'm very boring.
