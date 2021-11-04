@@ -7,10 +7,10 @@ The name is Pyxl. PyxlLegend.
 
 <details>
   <summary>📞 Contacts</summary>
-  | 🎮 | Discord   | PyxlLegend#5995 | I am on here very often |
-  | 🐤 | Twitter   | @DaGamerLegend  | I check my twitter for updates and if you wanna reach you can just show me you aren't a bot |
+  | 🎮 | Discord   | Pyxl#6600 | I am on here very often |
+  | 🐤 | Twitter   | @PyxlLegend  | I check my twitter for updates and if you wanna reach you can just show me you aren't a bot |
   | 📸 | Instagram | @pyxllegend     | I don't post I use it to contact people |
-  | 📺 | YouTube   | Pyxl Legend     | Give me some subscribers please |
+  | 📺 | YouTube   | Pyxl     | Give me some subscribers please |
 </details>
 
 <details>
